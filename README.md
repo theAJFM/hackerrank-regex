@@ -14,6 +14,8 @@ Accepted Solutions:
 <a href = "https://www.hackerrank.com/challenges/find-substring">Find a Substring</a><br>
 <a href = "https://www.hackerrank.com/challenges/split-number">Split the Phone Numbers</a><br>
 <a href = "https://www.hackerrank.com/challenges/uk-and-us-2">UK and US: Part 2</a><br>
-
+<a href = "https://www.hackerrank.com/challenges/alien-username">Alien Username</a><br>
+<a href = "https://www.hackerrank.com/challenges/utopian-identification-number">Utopian Identification Number</a><br>
+<a href = "https://www.hackerrank.com/challenges/detect-html-tags">Detect HTML Tags</a><br>
 
 
