@@ -25,11 +25,8 @@ public class substring {
 		for(int j = 0;j<testString;j++){
 			count = 0;
 			String arg = in.next();
-			String x = "(\\w)+" + arg + "(\\w)+";
-			System.out.println(x);
 			for(int k = 0;k<arr.length;k++){
 				if(arr[k].matches(".*([a-zA-Z_0-9])+" + arg + "([a-zA-Z_0-9])+.*") == true){
-					System.out.println(arr[k]);
 					count++;
 				}
 			}
