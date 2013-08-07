@@ -8,7 +8,6 @@ import java.util.regex.*;
 public class API {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
 		Scanner in = new Scanner(System.in);
 		ArrayList<String> lan = new ArrayList<String>();
 		lan.add("C");
