@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-import java.util.ArrayList;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
@@ -8,7 +7,6 @@ import java.util.regex.*;
 public class HTMLtags {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
 		Scanner in = new Scanner(System.in);
 		String format = "(\\w+)(| ).*>.*";
 		ArrayList<String> tag = new ArrayList<String>();
