@@ -7,8 +7,6 @@ import java.util.regex.*;
 public class hackerRank {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		Scanner in = new Scanner(System.in);
 		int testcase = in.nextInt();
 		String b = in.nextLine();
