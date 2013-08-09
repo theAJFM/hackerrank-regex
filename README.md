@@ -17,6 +17,6 @@ Accepted Solutions:
 <a href = "https://www.hackerrank.com/challenges/alien-username">Alien Username</a><br>
 <a href = "https://www.hackerrank.com/challenges/utopian-identification-number">Utopian Identification Number</a><br>
 <a href = "https://www.hackerrank.com/challenges/detect-html-tags">Detect HTML Tags</a><br>
-<a href = "hhttps://www.hackerrank.com/challenges/detect-html-links">Detect HTML links</a><br>
+<a href = "https://www.hackerrank.com/challenges/detect-html-links">Detect HTML links</a><br>
 
 
