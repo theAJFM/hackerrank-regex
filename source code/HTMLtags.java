@@ -16,7 +16,6 @@ public class HTMLtags {
 			String x = in.nextLine();
 			String[] y = x.split("<");
 			for(int j = 0;j<y.length;j++){
-				System.out.println(y[j]+" " + j);
 				if(y[j].matches(format) == true){
 					Pattern pattern = Pattern.compile(format);
 					Matcher match = pattern.matcher(y[j]);
