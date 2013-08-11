@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-import java.util.ArrayList;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
