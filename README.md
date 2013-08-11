@@ -18,5 +18,6 @@ Accepted Solutions:
 <a href = "https://www.hackerrank.com/challenges/utopian-identification-number">Utopian Identification Number</a><br>
 <a href = "https://www.hackerrank.com/challenges/detect-html-tags">Detect HTML Tags</a><br>
 <a href = "https://www.hackerrank.com/challenges/detect-html-links">Detect HTML links</a><br>
+<a href = "https://www.hackerrank.com/challenges/html-attributes">Detect HTML Attributes(in Python 2)</a><br>
 
 
