@@ -26,7 +26,7 @@ public class USUK2 {
 			count = 0;
 			String arg = in.next();
 			for(int k = 0;k<arr.length;k++){
-				String UK = arr[k].replaceAll("or$", "our");
+				String UK = arr[k].replaceAll("or", "our");
 				if(arr[k].matches(arg) == true || UK.matches(arg) == true){
 					count++;
 				}
