@@ -25,6 +25,6 @@ Accepted Solutions:
 Accepted Solutions(Pending Commit):
 
 <a href = "https://www.hackerrank.com/challenges/detect-the-domain-name">Detect the Domain Name</a><br>
-Waiting until at least 10 submissions are made
+(Waiting until at least 10 submissions are made)
 
 
