@@ -21,10 +21,6 @@ Accepted Solutions:
 <a href = "https://www.hackerrank.com/challenges/html-attributes">Detect HTML Attributes(in Python 2)</a><br>
 <a href = "https://www.hackerrank.com/challenges/stack-exchange-scraper">Build a Stack Exchange Scraper</a><br>
 <a href = "https://www.hackerrank.com/challenges/detect-the-email-addresses">Detect the Email Addresses</a><br>
-
-Accepted Solutions(Pending Commit):
-
 <a href = "https://www.hackerrank.com/challenges/detect-the-domain-name">Detect the Domain Name</a><br>
-(Waiting until at least 10 submissions are made)
 
 
