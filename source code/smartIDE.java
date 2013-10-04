@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class SmartIDE {
+public class smartIDE {
 
     public static void main(String[] args) {
 		Scanner in = new Scanner(new BufferedInputStream(System.in));
