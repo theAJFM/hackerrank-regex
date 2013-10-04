@@ -22,5 +22,5 @@ Accepted Solutions:
 <a href = "https://www.hackerrank.com/challenges/stack-exchange-scraper">Build a Stack Exchange Scraper</a><br>
 <a href = "https://www.hackerrank.com/challenges/detect-the-email-addresses">Detect the Email Addresses</a><br>
 <a href = "https://www.hackerrank.com/challenges/detect-the-domain-name">Detect the Domain Name</a><br>
-
+<a href = "https://www.hackerrank.com/challenges/programming-language-detection">Building a Smart IDE: Programming Language Detection</a><br>
 
