@@ -5,10 +5,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class DomainName {
+public class domainName {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
 		Scanner in = new Scanner(System.in);
 		String format = "(http|https)\\://(www.|ww2.|)([a-zA-Z0-9\\-\\.]+)(\\.[a-zA-Z]+)(/\\S*)?";
 		Pattern pattern = Pattern.compile(format);
