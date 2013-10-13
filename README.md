@@ -4,6 +4,7 @@ Solutions for various regular expression problems at Hackerrank.com
 
 Accepted Solutions:
 
+<a href = "https://www.hackerrank.com/challenges/ip-address-validation">IP Address Validation</a><br>
 <a href = "https://www.hackerrank.com/challenges/find-hackerrank">Find Hackerrank</a><br>
 <a href = "https://www.hackerrank.com/challenges/uk-and-us">UK and US</a><br>
 <a href = "https://www.hackerrank.com/challenges/valid-pan-format">Valid PAN format</a><br>
