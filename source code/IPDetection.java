@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class ipDetection {
+public class IPpDetection {
 
     public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
