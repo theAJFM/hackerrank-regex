@@ -24,4 +24,5 @@ Accepted Solutions:
 <a href = "https://www.hackerrank.com/challenges/detect-the-email-addresses">Detect the Email Addresses</a><br>
 <a href = "https://www.hackerrank.com/challenges/detect-the-domain-name">Detect the Domain Name</a><br>
 <a href = "https://www.hackerrank.com/challenges/programming-language-detection">Building a Smart IDE: Programming Language Detection</a><br>
+<a href = "https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude">Detecting Valid Latitude and Longitude Pairs</a><br>
 
